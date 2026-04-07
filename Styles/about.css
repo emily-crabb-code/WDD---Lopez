@@ -3,5 +3,12 @@ div {
 }
 
 h1 {
-    color: #6bb1ad; 
+    color: #e6738e;
+    padding: 100px 20px;
+    text-align: center;
+    font-size: 50px;
+}
+
+p {
+    padding: 100px 20px;
 }

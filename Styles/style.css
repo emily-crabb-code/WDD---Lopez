@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+div {
+    margin: 0 10%;
+}
+
 body {
     font-family: "Nunito", Arial, sans-serif;
     background-color: #ecebda;
@@ -42,7 +46,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #e6738e
+    color: #e6738e;
 }
 
 .hero {
